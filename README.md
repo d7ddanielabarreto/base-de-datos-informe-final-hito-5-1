@@ -2,7 +2,8 @@
 [base de datos informe final hito 5-1.pdf](https://github.com/d7ddanielabarreto/base-de-datos-informe-final-hito-5-1/files/13537953/base.de.datos.informe.final.hito.5-1.pdf)
 aqui les presento mi proyecto final aqui vemos mi informe grupal resumiendo todo espero y les ayude en su proceso 👆😊
 
-FOTO PARA QUE PUEDAS ENTENDER MEJOR LA BASE DE DATOS HITO 5😊👇 base de datos diagrama agencia de viajes  aqui podras aprecias todos los atributos y como estan conectados espero y te sea de gran ayuda 👆😊 ten en cuenta que es parte mi proyecto del hito 5 si quieres mas contexto en mis repositorios se encuentra de todo lo que tienes que saber 😊suerte !!!
+FOTO PARA QUE PUEDAS ENTENDER MEJOR LA BASE DE DATOS HITO 5😊👇 base de datos diagrama agencia de viajes  aqui podras aprecias todos los atributos y como estan conectados es![base de datos diagrama agencia de viajes ](https://github.com/d7ddanielabarreto/base-de-datos-informe-final-hito-5-1/assets/152658928/cc80d86e-6fc6-49d9-bfec-d9ec26377c41)
+pero y te sea de gran ayuda 👆😊 ten en cuenta que es parte mi proyecto del hito 5 si quieres mas contexto en mis repositorios se encuentra de todo lo que tienes que saber 😊suerte !!!
 
 https://drive.google.com/file/d/18-ZDhrgaySxoz-SpqEKdP6JfEiopNVCs/view?usp=drivesdk aqui te dejo el modelo logico de mi proyecto 😊👆espero y te sirva si quieres mas contexto en mis repositorios del hito 5 se encuentra todo lo que debes saber 😊
 
